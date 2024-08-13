@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= car.name %> Details</title>
+    <link rel="stylesheet" href="/styles/style.css">
+</head>
+<body>
+    <header>
+        <h1><%= car.name %> - <%= car.make %> (<%= car.model_year %>)</h1>
+    </header>
+
+    <main>
+        <section class="car-detail">
+            <img src="<%= car.image %>" alt="<%= car.name %>" class="car-image-detail">
+            <p><strong>Color:</strong> <%= car.color %></p>
+            <p><strong>Description:</strong> <%= car.description %></p>
+            <p><strong>Price:</strong> $<%= car.price %></p>
+            <a href="/" class="btn-back">Back to list</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Car Dealership. All rights reserved.</p>
+    </footer>
+</body>
+</html>

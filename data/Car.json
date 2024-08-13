@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Express",
+        "color": "Violet",
+        "description": "The Chevrolet Express is a versatile van, known for its spacious interior and excellent cargo capacity, making it ideal for businesses and large families.",
+        "make": "Chevrolet",
+        "model_year": 2009,
+        "price": 5794.05,
+        "image": "/images/Chevrolet.jpg"
+    },
+    {
+        "id": 2,
+        "name": "300ZX",
+        "color": "Pink",
+        "description": "The Nissan 300ZX is an iconic sports car from the 90s, featuring a powerful design and exceptional engine performance, offering an exhilarating driving experience.",
+        "make": "Nissan",
+        "model_year": 1995,
+        "price": 19830.67,
+        "image": "/images/300ZX.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Quest",
+        "color": "Turquoise",
+        "description": "The Nissan Quest is an ideal minivan for families, offering a spacious interior and advanced safety features to ensure comfort on every journey.",
+        "make": "Nissan",
+        "model_year": 2002,
+        "price": 16598.42,
+        "image": "/images/Quest.jpg"
+    },
+    {
+        "id": 4,
+        "name": "LR3",
+        "color": "Mauv",
+        "description": "The Land Rover LR3 is a luxurious SUV, known for its outstanding off-road capabilities and elegant design, perfect for adventurous expeditions.",
+        "make": "Land Rover",
+        "model_year": 2006,
+        "price": 18846.41,
+        "image": "/images/LR3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "MPV",
+        "color": "Goldenrod",
+        "description": "The Mazda MPV is a versatile minivan, designed with a focus on space and flexibility, making it perfect for families who love long trips.",
+        "make": "Mazda",
+        "model_year": 1996,
+        "price": 5173.27,
+        "image": "/images/mpv.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Crossfire Roadster",
+        "color": "Orange",
+        "description": "The Chrysler Crossfire Roadster is a convertible with a unique design, offering an exciting driving experience along with strong performance.",
+        "make": "Chrysler",
+        "model_year": 2006,
+        "price": 12962.22,
+        "image": "/images/crossfireRoadster.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Corsica",
+        "color": "Pink",
+        "description": "The Chevrolet Corsica is a compact sedan with a simple design and stable performance, making it an ideal choice for those seeking a practical car.",
+        "make": "Chevrolet",
+        "model_year": 1992,
+        "price": 13778.18,
+        "image": "/images/Chevroletpink.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Liberty",
+        "color": "Crimson",
+        "description": "The Jeep Liberty is a compact SUV with excellent off-road capabilities and a robust design, ideal for those who love exploration and conquering any terrain.",
+        "make": "Jeep",
+        "model_year": 2002,
+        "price": 10355.97,
+        "image": "/images/Jeep.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ram 50",
+        "color": "Blue",
+        "description": "The Dodge Ram 50 is a compact truck, known for its flexible transportation capabilities and reliable engine power, suitable for both work and daily use.",
+        "make": "Dodge",
+        "model_year": 1993,
+        "price": 9755.14,
+        "image": "/images/Ram50.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Cayman",
+        "color": "Turquoise",
+        "description": "The Porsche Cayman is a sports coupe with a refined design and exceptional engine performance, providing an inspiring and stylish driving experience.",
+        "make": "Porsche",
+        "model_year": 2010,
+        "price": 13162.40,
+        "image": "/images/Cayman.jpg"
+    }
+]
