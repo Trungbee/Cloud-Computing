@@ -47,7 +47,7 @@
         "make": "Mazda",
         "model_year": 1996,
         "price": 5173.27,
-        "image": "/images/mpv.jpg"
+        "image": "/images/MPV.jpg"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "make": "Chrysler",
         "model_year": 2006,
         "price": 12962.22,
-        "image": "/images/crossfireRoadster.jpg"
+        "image": "/images/CrossfireRoadster.jpg"
     },
     {
         "id": 7,
